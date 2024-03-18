@@ -1,7 +1,7 @@
 module.exports = {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "dilip@1602#",
+    PASSWORD: "",
     DB: "cdms",
     dialect: "mysql",
 
